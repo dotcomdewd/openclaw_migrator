@@ -1,5 +1,3 @@
-Absolutely — here is a polished `README.md` you can use for the GitHub repo.
-
 ````markdown
 # OpenClaw Migration Script
 
